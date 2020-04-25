@@ -1,6 +1,8 @@
 # Effective Data Visualization
 ## PyCon 2020
-https://us.pycon.com
+This is a tutorial as part of PyCon 2020 https://us.pycon.com
+The presentation page is https://us.pycon.org/2020/schedule/presentation/74/
+This tutorial has become a fully online tutorial due to PyCon moving to an online format due to CoViD-19
 
 ## Author
 Husni Almoubayyed
