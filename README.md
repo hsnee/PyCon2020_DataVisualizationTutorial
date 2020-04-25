@@ -5,9 +5,13 @@ The presentation page is https://us.pycon.org/2020/schedule/presentation/74/
 This tutorial has become a fully online tutorial due to PyCon moving to an online format due to CoViD-19
 
 ## Author
-Husni Almoubayyed
-Contact me at https://husni.space for any suggestions, comments, or discussions. 
+This tutorial is written by Husni Almoubayyed.
+
+Please contact me for any suggestions, comments, or discussions. 
+
 Please open a GitHub issue if you find anything that need corrections, additions, or things that need to be updated as time goes by.
+
+You can find up to date ways to contact me at https://husni.space
 
 
 ## About
