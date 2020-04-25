@@ -4,6 +4,9 @@ https://us.pycon.com
 
 ## Author
 Husni Almoubayyed
+Contact me at https://husni.space for any suggestions, comments, or discussions. 
+Please open a GitHub issue if you find anything that need corrections, additions, or things that need to be updated as time goes by.
+
 
 ## About
 From picking the right plot for the particular type of data, statistic, or result; to pre-processing sophisticated datasets, and even making important decisions about the aesthetic of a figure, visualization is both a science and art that requires both knowledge and practice to master.
