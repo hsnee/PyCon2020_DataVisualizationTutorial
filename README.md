@@ -1,6 +1,9 @@
 # Effective Data Visualization
 ## PyCon 2020
-## Husni Almoubayyed
+https://us.pycon.com
+
+## Author
+Husni Almoubayyed
 
 ## About
 From picking the right plot for the particular type of data, statistic, or result; to pre-processing sophisticated datasets, and even making important decisions about the aesthetic of a figure, visualization is both a science and art that requires both knowledge and practice to master.
@@ -19,4 +22,4 @@ After that, you can run
 ```cd PyCon2020_DataVisualizationTutorial
 jupyter notebook Effective_Data_Visualization_Workbook.ipynb 
 ```
-This assumes you have a Python version >3.7 and Jupyter installed. If not, an easy way to get this with most of the libraries needed for the tutorial is to install the latest http://anaconda.com distribution for your system, or to simply just visit https://bit.ly/PyConViz2020 for a Google Colab-hosted version of this tutorial.
+This assumes you have a Python version >3.7 and Jupyter installed. If not, an easy way to get this with most of the libraries needed for the tutorial is to install the latest https://anaconda.com distribution for your system, or to simply just visit https://bit.ly/PyConViz2020 for a Google Colab-hosted version of this tutorial.
