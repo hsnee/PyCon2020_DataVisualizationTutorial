@@ -35,4 +35,4 @@ After that, you can run
 ```cd PyCon2020_DataVisualizationTutorial
 jupyter notebook Effective_Data_Visualization_Workbook.ipynb 
 ```
-This assumes you have a Python version >3.7 and Jupyter installed. If not, an easy way to get this with most of the libraries needed for the tutorial is to install the latest https://anaconda.com distribution for your system, or to simply just visit https://bit.ly/PyConViz2020 for a Google Colab-hosted version of this tutorial.
+This assumes you have a Python version >3.7 and Jupyter installed. If not, an easy way to get this with most of the libraries needed for the tutorial is to install the latest https://anaconda.com distribution for your system, or to simply just visit https://bit.ly/PyConViz20 for a Google Colab-hosted version of this tutorial (or https://bit.ly/PyConViz20Full for the full version with all the solutions).
