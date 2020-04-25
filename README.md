@@ -16,7 +16,8 @@ We will use python libraries such as seaborn, matplotlib, plotly, and sklearn; a
 
 In your terminal, run 
 
-```git clone https://github.com/hsnee/PyCon2020_DataVisualizationTutorial.git
+```
+git clone https://github.com/hsnee/PyCon2020_DataVisualizationTutorial.git
 ```
 
 to download the content of this tutorial. 
