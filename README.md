@@ -2,7 +2,7 @@
 ## PyCon 2020
 This is a tutorial as part of PyCon 2020 https://us.pycon.com
 The presentation page is https://us.pycon.org/2020/schedule/presentation/74/
-This tutorial has become a fully online tutorial due to PyCon moving to an online format due to CoViD-19
+This tutorial has become a fully online tutorial due to PyCon moving to an online format due to CoViD-19. The video is published at https://www.youtube.com/watch?v=cNXioWhEeJc
 
 ## Author
 This tutorial is written by Husni Almoubayyed.
@@ -36,3 +36,6 @@ After that, you can run
 jupyter notebook Effective_Data_Visualization_Workbook.ipynb 
 ```
 This assumes you have a Python version >3.7 and Jupyter installed. If not, an easy way to get this with most of the libraries needed for the tutorial is to install the latest https://anaconda.com distribution for your system, or to simply just visit https://bit.ly/PyConViz20 for a Google Colab-hosted version of this tutorial (or https://bit.ly/PyConViz20Full for the full version with all the solutions).
+
+## Acknowledgement
+A lot of people have helped shape my understanding of data visualization throughout the years, either throughout conversations with them, being directly taught by them, or being influenced by their work. I am indebted to the [LSSTC Data Science Fellowship Program](http://astrodatascience.org) (in particular, Adam Miller and Lucianne Walkowicz), Jake Vanderplas, Skipper Seabold, and to many helpful comments and discussions throughout the years by my supervisor Rachel Mandelbaum.
